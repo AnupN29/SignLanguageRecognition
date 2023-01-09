@@ -1,2 +1,2 @@
 ## SignLanguageRecognition
-#### LSTM network and Mediapipe holistic to generate landmarks, capable recognise hand gestures in real-time 
+#### LSTM network and Mediapipe holistic to generate landmarks, capable to recognise hand gestures in real-time 
